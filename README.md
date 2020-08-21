@@ -1,5 +1,5 @@
 # Pterodactyl jezyk polski
- Tlumaczenie panelu pterodactyl na jezyyk polski.
+ Tlumaczenie panelu pterodactyl na jezyk polski.
 
 Folder "pl" wrzuć do `/var/www/pterodactyl/resources/lang`
 
