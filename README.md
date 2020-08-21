@@ -7,7 +7,7 @@ Zalecam uzyć poprzez putty
 
 php artisan migrate
 php artisan view:clear
-php artisan cache:clear
+~php artisan cache:clear~
 
 w /var/www/pterodactyl
 
