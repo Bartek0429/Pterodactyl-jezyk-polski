@@ -6,8 +6,8 @@ Folder "pl" wrzuć do /var/www/pterodactyl/resources/lang
 Zalecam uzyć poprzez putty
 
 `php artisan migrate`
-php artisan view:clear
-php artisan cache:clear
+`php artisan view:clear`
+`php artisan cache:clear`
 
 w /var/www/pterodactyl
 
