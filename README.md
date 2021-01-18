@@ -3,17 +3,14 @@
 
 Folder "pl" wrzuć do `/var/www/pterodactyl/resources/lang`
 
-Zalecam uzyć poprzez putty
+
+Zalecam uzyć poprzezputty
 
 `cd /var/www/pterodactyl`
 
-`php artisan migrate`
-
 `php artisan view:clear`
-
-`php artisan cache:clear`
 
 
 Tłumaczenie nie jest skończone w 100% jeśli masz jakiś uwagi napisz :)
 
-Discord: ! SSman#8280
+Discord: ! Bartek0429#7884
