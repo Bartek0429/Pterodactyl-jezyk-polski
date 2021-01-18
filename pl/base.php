@@ -1,30 +1,30 @@
 <?php
 
 return [
-    'validation_error' => 'There was an error with one or more fields in the request.',
+    'validation_error' => 'Wystąpił błąd w co najmniej jednym polu w żądaniu.',
     'errors' => [
-        'return' => 'Return to Previous Page',
+        'return' => 'Powróc do poprzedniej strony',
         'home' => 'Go Home',
         '403' => [
             'header' => 'Forbidden',
-            'desc' => 'You do not have permission to access this resource on this server.',
+            'desc' => 'Nie masz uprawnień dostępu do tego zasobu na tym serwerze.',
         ],
         '404' => [
-            'header' => 'File Not Found',
-            'desc' => 'We were unable to locate the requested resource on the server.',
+            'header' => 'Nie znaleziono pliku',
+            'desc' => 'Nie mogliśmy zlokalizować żądanego zasobu na serwerze.',
         ],
         'installing' => [
-            'header' => 'Server Installing',
-            'desc' => 'The requested server is still completing the install process. Please check back in a few minutes, you should receive an email as soon as this process is completed.',
+            'header' => 'Instalacja serwera',
+            'desc' => 'Żądany serwer nadal kończy proces instalacji. Sprawdź ponownie za kilka minut. Po zakończeniu tego procesu powinieneś otrzymać wiadomość e-mail.',
         ],
         'suspended' => [
-            'header' => 'Server Suspended',
-            'desc' => 'This server has been suspended and cannot be accessed.',
+            'header' => 'Serwer zawieszony',
+            'desc' => 'Ten serwer został zawieszony i nie można uzyskać do niego dostępu.',
         ],
         'maintenance' => [
-            'header' => 'Node Under Maintenance',
-            'title' => 'Temporarily Unavailable',
-            'desc' => 'This node is under maintenance, therefore your server can temporarily not be accessed.',
+            'header' => 'Węzeł w trakcie konserwacji',
+            'title' => 'Chwilowo niedostępny',
+            'desc' => 'Ten węzeł jest w trakcie konserwacji, dlatego tymczasowo nie można uzyskać dostępu do serwera.',
         ],
     ],
     'index' => [
